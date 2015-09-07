@@ -1,3 +1,6 @@
+Minimal setup to allow UI prototyping. 
+HTML-Sass-compiled with Node server.
+
 Install dependencies (first time only):
 
     $ npm install
