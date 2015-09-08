@@ -1,5 +1,6 @@
 Minimal setup to allow UI prototyping. 
-HTML-Sass-compiled with Node server.
+- HTML templates.
+- SASS compiled with Node Express server.
 
 Install dependencies (first time only):
 
