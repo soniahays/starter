@@ -3,7 +3,7 @@ Minimal setup to allow UI prototyping.
 - SASS compiled with Node Express server.
 - Index page.
 
-Install dependencies (first time only):
+Install dependencies:
 
     $ npm install
 
